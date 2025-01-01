@@ -1,8 +1,8 @@
 # Figure out what you actually like
 
-A very simple webapp to help you decide what your favourite text based option is. It's kind of like a 'would you rather x or y' question.
+A very simple webapp to help you decide what your favourite text based option is. It's kind of like a 'would you rather x or y' question. You can try it out on https://thisorthatapp.vercel.app/
 
-![CleanShot 2025-01-01 at 11 03 36@2x](https://github.com/user-attachments/assets/be99eb52-5470-49bf-b2ee-1c4dd71d42da)
+![CleanShot 2025-01-01 at 11 34 01@2x](https://github.com/user-attachments/assets/119369fc-556e-4bf4-ae1a-4ce35e035d13)
 
 This is all v0.dev's work & some prompting from me. I didn't write any code. It took more iterations than it should've because I didn't build prompts with a clear list of requirements or PRD.
 
@@ -18,12 +18,11 @@ It's pretty straightforward:
 4. The option you didn't pick is replaced by a random option from the list.
 5. Keep doing that until you run out of items to compare.
 
-![CleanShot 2025-01-01 at 11 04 31@2x](https://github.com/user-attachments/assets/394a266c-1dcf-4f82-be5e-dc0db6e4b596)
+![CleanShot 2025-01-01 at 11 34 48@2x](https://github.com/user-attachments/assets/dbe05a82-abc1-41ea-8406-f0ace2da5210)
 
 At the end you're then shown a list of how many votes each item received.
 
-![CleanShot 2025-01-01 at 11 05 13@2x](https://github.com/user-attachments/assets/a8489492-87f3-4b00-9dc2-8796420e7cbd)
-
+![CleanShot 2025-01-01 at 11 35 06@2x](https://github.com/user-attachments/assets/715cc8a6-93cd-4646-b3d3-200acf1c376a)
 
 # Decisions
 
