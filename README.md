@@ -2,6 +2,8 @@
 
 A very simple webapp to help you decide what your favourite text based option is. It's kind of like a 'would you rather x or y' question.
 
+![CleanShot 2025-01-01 at 11 03 36@2x](https://github.com/user-attachments/assets/be99eb52-5470-49bf-b2ee-1c4dd71d42da)
+
 This is all v0.dev's work & some prompting from me. I didn't write any code. It took more iterations than it should've because I didn't build prompts with a clear list of requirements or PRD.
 
 Built during the Nylas marketing team's SF offsite in Dec 2024 - we were working on taglines & needed to compare which ones we liked the most.
@@ -16,7 +18,12 @@ It's pretty straightforward:
 4. The option you didn't pick is replaced by a random option from the list.
 5. Keep doing that until you run out of items to compare.
 
+![CleanShot 2025-01-01 at 11 04 31@2x](https://github.com/user-attachments/assets/394a266c-1dcf-4f82-be5e-dc0db6e4b596)
+
 At the end you're then shown a list of how many votes each item received.
+
+![CleanShot 2025-01-01 at 11 05 13@2x](https://github.com/user-attachments/assets/a8489492-87f3-4b00-9dc2-8796420e7cbd)
+
 
 # Decisions
 
